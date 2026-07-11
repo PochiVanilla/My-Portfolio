@@ -6,12 +6,12 @@ import { useParams, useRouter } from "next/navigation";
 const projectData = {
   en: {
     "sluice-gate-design": {
-      title: "Sluice Gate Design & Drawing Layout (1000x1000)",
+      title: "Sluice Gate Design & Drawing Layout",
       duration: "2026",
       role: "Mechanical CAD Designer • Team Member (Drawing Design Only)",
       problem: "Water supply control systems require highly durable, leak-proof sluice gates capable of withstanding massive hydraulic pressures. The design demanded precise tolerance calculations, structural layouts, and material specs drafting to guide workshop manufacturing.",
       tools: "SolidWorks 3D Modeling, AutoCAD 2D Drafting, Technical Blueprint Drafting, GD&T (Geometric Dimensioning and Tolerancing)",
-      impact: "Successfully modeled the entire 1000x1000mm sluice gate frame and gate assembly in SolidWorks 3D. Created complete AutoCAD fabrication drawings. The prototype fabricated by the manufacturing team based on these blueprints successfully passed water tightness tests and is commercialized.",
+      impact: "Successfully modeled the entire frame and gate assemblies for various sizes ranging from 300x300mm to 2400x2400mm in SolidWorks 3D. Created complete AutoCAD fabrication drawings. The prototype fabricated by the manufacturing team based on these blueprints successfully passed water tightness tests and is commercialized.",
       image: "/projects/Sluice Gate Design & Technical Drawing/Sluite Gate first build.jpg",
       links: [
         { label: "Technical Blueprint (PDF) 📥", url: "/projects/Sluice Gate Design & Technical Drawing/Van cửa phai - 1000x1000.pdf" },
@@ -21,7 +21,7 @@ const projectData = {
         {
           step: 1,
           title: "3D Mechanical Design Modeling",
-          desc: "Designed and built the complete 3D assembly of the 1000x1000mm sluice gate on SolidWorks, planning physical dimensions and mechanical constraints. You can view the blueprint PDF on the right.",
+          desc: "Designed and built the complete 3D assembly models of various sluice gate sizes ranging from 300x300mm to 2400x2400mm on SolidWorks, planning physical dimensions and mechanical constraints. You can view the blueprint PDF on the right.",
           image: "/projects/Sluice Gate Design & Technical Drawing/Van cửa phai - 1000x1000.pdf"
         },
         {
@@ -162,12 +162,12 @@ const projectData = {
   },
   vi: {
     "sluice-gate-design": {
-      title: "Thiết kế cơ khí & Bản vẽ Van Cửa Phai (1000x1000)",
+      title: "Thiết kế cơ khí & Bản vẽ Van Cửa Phai",
       duration: "2026",
       role: "Kỹ sư Bản vẽ Cơ khí (CAD) • Thành viên dự án (Chỉ thiết kế bản vẽ)",
       problem: "Các hệ thống quản lý nguồn nước yêu cầu các van cửa phai có độ bền cơ học cao, chịu lực tốt dưới áp suất thủy tĩnh lớn và tuyệt đối kín nước. Quá trình thiết kế yêu cầu tính toán dung sai tỉ mỉ, thiết kế khung kết cấu cơ khí và lập thông số chế tạo để bàn giao xưởng sản xuất.",
       tools: "Thiết kế 3D SolidWorks, Bản vẽ kỹ thuật AutoCAD 2D, Vẽ bản vẽ chế tạo cơ khí, GD&T (Dung sai hình học & Kích thước)",
-      impact: "Xây dựng mô hình 3D hoàn chỉnh cụm khung và cánh van cửa phai kích thước 1000x1000mm trên SolidWorks. Thiết lập đầy đủ bản vẽ AutoCAD chế tạo. Mẫu thử nghiệm thực tế sản xuất theo bản vẽ thiết kế đạt độ kín nước 100% và sẵn sàng bán.",
+      impact: "Xây dựng mô hình 3D hoàn chỉnh cụm khung và cánh van cửa phai cho nhiều kích cỡ từ 300x300mm đến 2400x2400mm trên SolidWorks. Thiết lập đầy đủ bản vẽ AutoCAD chế tạo. Mẫu thử nghiệm thực tế sản xuất theo bản vẽ thiết kế đạt độ kín nước 100% và sẵn sàng bán.",
       image: "/projects/Sluice Gate Design & Technical Drawing/Sluite Gate first build.jpg",
       links: [
         { label: "Bản vẽ Cơ khí chế tạo (PDF) 📥", url: "/projects/Sluice Gate Design & Technical Drawing/Van cửa phai - 1000x1000.pdf" },

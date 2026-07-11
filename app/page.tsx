@@ -99,9 +99,9 @@ const translations = {
           link: "/project/pressure-valve-control"
         },
         {
-          title: "Sluice Gate Design & Fabrication (1000x1000)",
+          title: "Sluice Gate Design & Fabrication",
           meta: "Vietnam • 2026",
-          desc: "Drafted the detailed 3D SolidWorks mechanical layout designs and AutoCAD blueprints for a 1000x1000mm sluice gate. Prototype manufactured based on designs is market-ready.",
+          desc: "Drafted the detailed 3D SolidWorks mechanical layout designs and AutoCAD blueprints for various sluice gate sizes ranging from 300x300mm to 2400x2400mm. Prototype manufactured based on designs is market-ready.",
           image: "/projects/Sluice Gate Design & Technical Drawing/Sluite Gate first build.jpg",
           link: "/project/sluice-gate-design"
         },
@@ -228,9 +228,9 @@ const translations = {
           link: "/project/pressure-valve-control"
         },
         {
-          title: "Thiết kế & Chế tạo Van Cửa Phai (1000x1000)",
+          title: "Thiết kế & Chế tạo Van Cửa Phai",
           meta: "Việt Nam • 2026",
-          desc: "Thiết kế bản vẽ cơ khí 3D trên SolidWorks và bản vẽ AutoCAD chế tạo cho van cửa phai 1000x1000mm. Bản vẽ thiết kế đã được ứng dụng chế tạo thành công mẫu thử nghiệm.",
+          desc: "Thiết kế bản vẽ cơ khí 3D trên SolidWorks và bản vẽ AutoCAD chế tạo cho nhiều kích cỡ van cửa phai từ 300x300mm đến 2400x2400mm. Bản vẽ thiết kế đã được ứng dụng chế tạo thành công mẫu thử nghiệm.",
           image: "/projects/Sluice Gate Design & Technical Drawing/Sluite Gate first build.jpg",
           link: "/project/sluice-gate-design"
         },
